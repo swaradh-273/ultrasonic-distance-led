@@ -6,16 +6,14 @@ Arduino + HC-SR04 distance-based LED feedback system
 
 ### 🔌 Circuit Schematic
 This schematic was designed using **EasyEDA** and shows the complete connection setup of the ultrasonic sensor (HC-SR04) with the Arduino UNO and two LEDs. It includes pin mappings, power rails, and resistor values.
+![Ultrasonic Distance LED Schematic](images/ultrasonic%20sch.jpeg)
 
-
----
 
 ### 📷 Real-World Project Setup
 This photo shows the actual working model of the distance-based LED system. The project was built without a breadboard by connecting components directly using jumper wires. 
 
 LEDs respond dynamically based on the measured distance from the ultrasonic sensor.
 
----
 
 ### 🗒️ Additional Notes
 - `distance_mapping.txt`: Contains range definitions and LED logic explanation.
