@@ -13,6 +13,7 @@ This schematic was designed using **EasyEDA** and shows the complete connection 
 This photo shows the actual working model of the distance-based LED system. The project was built without a breadboard by connecting components directly using jumper wires. 
 
 LEDs respond dynamically based on the measured distance from the ultrasonic sensor.
+![Real Hardware Photo](images/hardware_photo.png)
 
 
 ### 🗒️ Additional Notes
